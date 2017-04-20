@@ -52,7 +52,7 @@ hr.light {
 
 a {
     transition: all .35s;
-    color: #white;
+    color: #white; 
 }
 
 a:focus,
