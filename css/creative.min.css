@@ -52,7 +52,7 @@ hr.light {
 
 a {
     transition: all .35s;
-    color: #A4E666
+    color: #white;
 }
 
 a:focus,
@@ -476,4 +476,9 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0
+}
+
+.wText{
+    color:white;
+    font-weight: bold;
 }
